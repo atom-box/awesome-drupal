@@ -180,8 +180,9 @@ Documentation for developers about tools, processes, and standards that are not 
 * [The Drupal 8 Theming guide](http://sqndr.github.io/d8-theming-guide/index.html)
 * [Free Drupal 8 Tutorials – An Exhaustive List](http://redcrackle.com/blog/drupal-8/free-tutorials-list)
 * [Drupal Headless Architecture with Inferno.js [Live Demo]](https://snipcart.com/blog/drupal-headless-architecture-tutorial)
-* [Akshay Kalose](https://www.youtube.com/c/AkshayKalose/search?query=drupal) -  Technology Tips, Tricks, Tutorials and more!
-* [Jonathan Daggerhart](https://www.youtube.com/playlist?list=PL8xTPkdstN3GyL0LjpZwAR_b0CttG_aZ2) - Drupal Camp Asheville 2018 Training
+* [Some Drupal Tutorials](https://www.youtube.com/c/AkshayKalose/search?query=drupal)
+* [Drupal Camp Asheville 2018 Training](https://www.youtube.com/playlist?list=PL8xTPkdstN3GyL0LjpZwAR_b0CttG_aZ2)
+* [Drupal 8 Module Development Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxHi-llE9Z8-Q747NYWpsq6t) 
 
 
 ### Books
