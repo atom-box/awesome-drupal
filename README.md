@@ -9,7 +9,7 @@ Contributions are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
 
-Check out the [Contributing Guidelines](/awesome-drupal/blob/master/CONTRIBUTING.md).
+Check out the [Contributing Guidelines](CONTRIBUTING.md).
 
 
 ## User and Builder Guides
