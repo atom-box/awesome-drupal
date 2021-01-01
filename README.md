@@ -2,6 +2,16 @@
 
 A curated list of amazingly awesome Drupal open source, resources and shiny things.
 
+Contributing
+=======================================================================
+
+Contributions are most welcome!
+
+This list is just getting started, please contribute to make it super awesome.
+
+Check out the [Contributing Guidelines](/awesome-drupal/blob/master/CONTRIBUTING.md).
+
+
 ## User and Builder Guides
 ### Drupal 7
 
