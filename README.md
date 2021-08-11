@@ -18,8 +18,9 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 
 ### Composer
 
-* [Lullabot blog](https://www.lullabot.com/articles/drupal-8-composer-best-practices)
 * [Update vs Install; Lock vs Json](https://daylerees.com/the-composer-lock-file/) Dayle Rees clarifies some best practices
+* [Composer Cheatsheet](https://devhints.io/composer)
+* [Lullabot blog](https://www.lullabot.com/articles/drupal-8-composer-best-practices)
 
 
 ### Headless and JAMstack
@@ -32,7 +33,6 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 * [Shane Thomas Interview](https://www.mediacurrent.com/blog/decoupling-drupal-shane-thomas-gatsby/)  Podcast with transcript
 * [Intro to Content Mesh](https://frontendmasters.com/courses/gatsby/the-content-mesh/) Six minute free video preview of paysite.  No Drupal specific content.
 * [City of Sandy Springs 2019](decoupled CMS, Drupal replaced the city’s existing WordPress site.) Case study where MediaCurrent helped Sandy Springs, GA shift Content Management away from the front end of their website by going to headless Drupal with Gatsby CMS
-
 
 
 ### Hosting
@@ -52,6 +52,7 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 
 * [Symfonycast](https://symfonycasts.com/tracks/drupal) Awesome teacher, awesome interface.
 * [Drupalize Me](https://drupalize.me/)  Just okay.  Lots of content and is up to date.  Not much value added compared to the regular docs from Drupal Org
+* [Debug Academy](https://debugacademy.com/event/drupal-course-fall-2021/sun-2021-09-12)  Three month class for Fall 2021
 * [DrupalEasy](https://www.drupaleasy.com/tutorials) Smallish set of lessons.  Good.
 * [DrupalCamp](https://drupal.tv/curated-playlists) Drupal TV curated playlists from LOTS of conference talks.  Many.  Many, many.
 * [The Drupal 8 Theming guide](http://sqndr.github.io/d8-theming-guide/index.html)
