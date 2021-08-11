@@ -2,8 +2,6 @@
 
 A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://github.com/mrsinguyen/awesome-drupal)
 
-### Recent, uncategorized
-* [overview of Drupal](https://www.youtube.com/watch?v=HI2_PEewtQY) 44 min, Nicaragua
 
 ### Running Drupal in Docker
 
@@ -21,15 +19,41 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 ### Composer
 
 * [Lullabot blog](https://www.lullabot.com/articles/drupal-8-composer-best-practices)
+* [Update vs Install; Lock vs Json](https://daylerees.com/the-composer-lock-file/) Dayle Rees clarifies some best practices
+
 
 ### Headless and JAMstack
 
-* [Gatsby with Decoupled Drupal](https://www.gatsbyjs.com/docs/glossary/decoupled-drupal/#gatsby-skip-here) Headless Drupal
+* [Gatsby with Decoupled Drupal Pt 1](https://www.gatsbyjs.com/docs/glossary/decoupled-drupal/#gatsby-skip-here) Headless Drupal
+* [Gatsby with Decoupled Drupal Pt 2](https://www.gatsbyjs.com/guides/drupal/) Official Gatsby docs
+* [Intro to CMS Headless Concepts](https://buttercms.com/blog/headless-drupal-the-what-why-and-how)
+* [Droptica Blogpost on Choosing a CMS](https://www.droptica.com/blog/why-drupal-best-headless-cms/)
+* [Getting Started](https://atendesigngroup.com/articles/decoupled-drupal-gatsby-getting-started) Video. From Aten Design Group.
+* [Shane Thomas Interview](https://www.mediacurrent.com/blog/decoupling-drupal-shane-thomas-gatsby/)  Podcast with transcript
+* [Intro to Content Mesh](https://frontendmasters.com/courses/gatsby/the-content-mesh/) Six minute free video preview of paysite.  No Drupal specific content.
+* [City of Sandy Springs 2019](decoupled CMS, Drupal replaced the city’s existing WordPress site.) Case study where MediaCurrent helped Sandy Springs, GA shift Content Management away from the front end of their website by going to headless Drupal with Gatsby CMS
+
+
+
+### Hosting
+
+* [Hosting review](http://www.kristen.org/content/first-impression-drupal-9-managed-hosting-providers) 2020. Drupal focused.
+* [InMotion](https://www.inmotionhosting.com/support/edu/drupal/) cheap
+* [Acquia](https://www.acquia.com/products-services/acquia-cloud/drupal-hosting) robust; managed
+* [1&1](https://www.ionos.com/) cheap
+* [Code Enigma](https://www.codeenigma.com/our-services/drupal-hosting) very robust
+* [Pantheon](https://pantheon.io/) robust; managed
+* [Amazee](https://www.amazee.io/) Third most popular Drupal host
+* [Platform.sh](https://platform.sh/marketplace/drupal/)
+* [Cloudways](https://www.cloudways.com/en/drupal-hosting) claims to be much faster, less opinionated than WP Engine
+* [Woodpeckr](https://www.woodpeckr.io/services/managed-drupal-hosting/)
 
 ### Tutorials
 
 * [Symfonycast](https://symfonycasts.com/tracks/drupal) Awesome teacher, awesome interface.
 * [Drupalize Me](https://drupalize.me/)  Just okay.  Lots of content and is up to date.  Not much value added compared to the regular docs from Drupal Org
+* [DrupalEasy](https://www.drupaleasy.com/tutorials) Smallish set of lessons.  Good.
+* [DrupalCamp](https://drupal.tv/curated-playlists) Drupal TV curated playlists from LOTS of conference talks.  Many.  Many, many.
 * [The Drupal 8 Theming guide](http://sqndr.github.io/d8-theming-guide/index.html)
 * [Free Drupal 8 Tutorials – An Exhaustive List](http://redcrackle.com/blog/drupal-8/free-tutorials-list)
 * [Drupal Headless Architecture with Inferno.js [Live Demo]](https://snipcart.com/blog/drupal-headless-architecture-tutorial)
@@ -57,6 +81,7 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 
 
 ### Drupal 8
+* [overview of Drupal](https://www.youtube.com/watch?v=HI2_PEewtQY) 44 min, Nicaragua
 * [Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html) - This guide was written mainly for people with minimal knowledge of the Drupal content management system.
 * [Evaluator Guide](https://www.drupal.org/docs/official_docs/en/_evaluator_guide.html) - This guide provides instructions for creating a temporary Drupal demo application that can be used to evaluate Drupal on your local machine.
 * [Drupal 8 Guide](https://www.drupal.org/docs/8) - A catch-all guide for Drupal 8.
