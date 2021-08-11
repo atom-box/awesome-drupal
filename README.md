@@ -1,6 +1,12 @@
-# Working with Drupal
+# Welcome to the Drupal-Dome
 
 A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://github.com/mrsinguyen/awesome-drupal)
+
+### Podcasts
+
+* [Acquia](https://vurbl.com/station/the-acquia-podcast-4yvFKm3rLF8/) Quirky. Defunkt. Mixed bag. Sometimes, good short noisy tradeshow vendor hall interviews. But also the famous Ep. 255 "No one wants a website - Don't sell Drupal, move up the value chain!"  And very pro-internationalization of web development: pro-India, pro-Nigeria, et al."
+* [Talking Drupal](https://talkingdrupal.com/) Long running. Great bonhomie. Three or four host, weekly format.
+* [Decoupled Drupal with Third & Grove](https://www.acquia.com/events/webinars/its-look-podcast-decoupled-drupal-third-grove)
 
 
 ### Running Drupal in Docker
@@ -25,6 +31,7 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 
 ### Headless and JAMstack
 
+* [Svelte + Sapper + Drupal](https://bitbucket.org/spinspire/drupal-sapper-svelte-demo/src/master/) Experimental.
 * [Gatsby with Decoupled Drupal Pt 1](https://www.gatsbyjs.com/docs/glossary/decoupled-drupal/#gatsby-skip-here) Headless Drupal
 * [Gatsby with Decoupled Drupal Pt 2](https://www.gatsbyjs.com/guides/drupal/) Official Gatsby docs
 * [Intro to CMS Headless Concepts](https://buttercms.com/blog/headless-drupal-the-what-why-and-how)
@@ -48,7 +55,7 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 * [Cloudways](https://www.cloudways.com/en/drupal-hosting) claims to be much faster, less opinionated than WP Engine
 * [Woodpeckr](https://www.woodpeckr.io/services/managed-drupal-hosting/)
 
-### Tutorials
+### Tutorial Series
 
 * [Symfonycast](https://symfonycasts.com/tracks/drupal) Awesome teacher, awesome interface.
 * [Drupalize Me](https://drupalize.me/)  Just okay.  Lots of content and is up to date.  Not much value added compared to the regular docs from Drupal Org
