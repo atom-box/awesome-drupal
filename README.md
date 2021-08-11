@@ -13,20 +13,6 @@ Check out the [Contributing Guidelines](CONTRIBUTING.md).
 
 
 ## User and Builder Guides
-### Drupal 7
-
-* [Drupal Concepts](https://www.drupal.org/docs/7/understanding-drupal/general-concepts) - Before you install Drupal and begin using it, it’s a good idea to get an overall sense of what it is, and how it works.
-* [System requirements](https://www.drupal.org/docs/7/system-requirements) - This guide covers detailed system requirements for a Drupal 7 installation.
-* [Installing Drupal 7](https://www.drupal.org/docs/7/install) - This guide covers preparing for installation, running the installation script, and the steps that should be done after the installation script has completed.
-* [Updating Drupal 7](https://www.drupal.org/docs/7/update) - Updating Drupal 7
-* [Administering Drupal 7 site](https://www.drupal.org/docs/7/administering-drupal-7-site) - Manage users and content, perform backups and upgrades, secure your site, tweak performance, etc. Audience: System and site administrators.
-* [Nodes, content types and fields](https://www.drupal.org/docs/7/nodes-content-types-and-fields) - Work with content types, blocks, menus, views, panels, taxonomy, user profiles, and navigation. Audience: information architects.
-* [Multilingual Guide](https://www.drupal.org/docs/7/multilingual) - How to build sites in other languages and multi-language sites. Audience: site builders, site administrators.
-* [Multisite Drupal 7](https://www.drupal.org/docs/7/multisite) - Drupal has a feature which allows separate, independent sites to be served from a single codebase. Each site has its own database, configuration, files and base domain or URL.
-* [Theming Drupal 7](https://www.drupal.org/docs/7/theming) - Customize the interface using templates, CSS, etc. Override the output from core or contributed modules. Audience: designers, usability and accessibility professionals, interface experts.
-* [Extending Drupal 7](https://www.drupal.org/docs/7/extend) - This documentation guide describes 'Extending' your Drupal 7 site beyond the capabilities of a standard Drupal core installation.
-* [Mobile Guide](https://www.drupal.org/docs/7/mobile) - Drupal has fantastic contributed modules and themes that make Drupal a great starting point for mobile solutions. This guide will help users to find and use those projects to build the best mobile solutions for their needs.
-* [Working with menus](https://www.drupal.org/docs/7/working-with-menus) - Menus are a collection of links (menu items) used to navigate a website. The Menu module provides an interface to control and customize the powerful menu system that comes with Drupal. Menus are primarily displayed as a hierarchical list of links using Drupal's highly flexible blocks feature. Each menu automatically creates a block of the same name. By default, new menu items are placed inside a built-in menu labelled Navigation, but administrators can also create custom menus.
 
 ### Drupal 8
 * [Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html) - This guide was written mainly for people with minimal knowledge of the Drupal content management system.
