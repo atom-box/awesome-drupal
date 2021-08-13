@@ -4,10 +4,14 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 
 ### Podcasts
 
-* [Acquia](https://vurbl.com/station/the-acquia-podcast-4yvFKm3rLF8/) Quirky. Defunkt. Mixed bag. Sometimes, good short noisy tradeshow vendor hall interviews. But also the famous Ep. 255 "No one wants a website - Don't sell Drupal, move up the value chain!"  And very pro-internationalization of web development: pro-India, pro-Nigeria, et al."
 * [Talking Drupal](https://talkingdrupal.com/) Long running. Great bonhomie. Three or four host, weekly format.
-* [Decoupled Drupal with Third & Grove](https://www.acquia.com/events/webinars/its-look-podcast-decoupled-drupal-third-grove)
+* [LuLLabot](https://www.lullabot.com/podcasts/lullabot-podcast) News, interviews and tips about Drupal and Open Source from the team at Lullabot. Haven't listened to this one yet.
+* [Acquia](https://vurbl.com/station/the-acquia-podcast-4yvFKm3rLF8/) Quirky. Defunkt. Mixed bag. Sometimes, good short noisy tradeshow vendor hall interviews. But also the famous Ep. 255 "No one wants a website - Don't sell Drupal, move up the value chain!" Refreshingly in favor of off-shoring web development: pro-India, pro-Nigeria, et al.
+* [Decoupled Drupal with Third & Grove](https://www.acquia.com/events/webinars/its-look-podcast-decoupled-drupal-third-grove) a one off episode.
 
+### Performance & Speed
+
+[Tuning the PHP Cache](https://haydenjames.io/set-monitor-phps-realpath_cache_size-correctly/) In phpconfig you need not blindly set the realpath_cache_size.  Mine is defaulted to 4096k.  This post gives instructions for tuning the cache size and cache ttl.
 
 ### Running Drupal in Docker
 
@@ -27,6 +31,7 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 * [Update vs Install; Lock vs Json](https://daylerees.com/the-composer-lock-file/) Dayle Rees clarifies some best practices
 * [Composer Cheatsheet](https://devhints.io/composer)
 * [Lullabot blog](https://www.lullabot.com/articles/drupal-8-composer-best-practices)
+* [Options for create-projects](https://getcomposer.org/doc/03-cli.md#create-project) For example `php composer.phar create-project doctrine/orm path "2.2.* --prefer-install --dev"`
 
 
 ### Headless and JAMstack
@@ -40,6 +45,10 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 * [Shane Thomas Interview](https://www.mediacurrent.com/blog/decoupling-drupal-shane-thomas-gatsby/)  Podcast with transcript
 * [Intro to Content Mesh](https://frontendmasters.com/courses/gatsby/the-content-mesh/) Six minute free video preview of paysite.  No Drupal specific content.
 * [City of Sandy Springs 2019](decoupled CMS, Drupal replaced the city’s existing WordPress site.) Case study where MediaCurrent helped Sandy Springs, GA shift Content Management away from the front end of their website by going to headless Drupal with Gatsby CMS
+
+### Stack o v e r f l o w
+
+* [CLI which version of Drupal](https://support.acquia.com/hc/en-us/articles/360004564153-Determining-what-version-of-Drupal-is-installed)  Using Drush. From Acquia.
 
 
 ### Hosting
