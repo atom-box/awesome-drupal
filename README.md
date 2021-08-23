@@ -1,6 +1,6 @@
-# Welcome to the Drupal-Dome
+# Welcome to Drupal
 
-A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://github.com/mrsinguyen/awesome-drupal)
+A list of demos, templates, docs, books.
 
 ### Podcasts
 
@@ -8,6 +8,24 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 * [LuLLabot](https://www.lullabot.com/podcasts/lullabot-podcast) News, interviews and tips about Drupal and Open Source from the team at Lullabot. Haven't listened to this one yet.
 * [Acquia](https://vurbl.com/station/the-acquia-podcast-4yvFKm3rLF8/) Quirky. Defunkt. Mixed bag. Sometimes, good short noisy tradeshow vendor hall interviews. But also the famous Ep. 255 "No one wants a website - Don't sell Drupal, move up the value chain!" Refreshingly in favor of off-shoring web development: pro-India, pro-Nigeria, et al.
 * [Decoupled Drupal with Third & Grove](https://www.acquia.com/events/webinars/its-look-podcast-decoupled-drupal-third-grove) a one off episode.
+https://www.youtube.com/watch?v=RIeRpLgI1mM
+
+### Keeping up with what's new in Drupal
+
+* [2020 DriesNote Address](https://www.youtube.com/watch?v=RIeRpLgI1mM) video recorded at Drupalcon Global 2020
+
+### Modules I'm using,
+
+In order of how often I use it
+
+* AdminToolbar
+* Asset Injector  for styling
+* Layout Builder Style
+* Congtext
+* Inline Entity Form
+
+[]()
+
 
 ### Performance & Speed
 
@@ -63,6 +81,7 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 * [Platform.sh](https://platform.sh/marketplace/drupal/)
 * [Cloudways](https://www.cloudways.com/en/drupal-hosting) claims to be much faster, less opinionated than WP Engine
 * [Woodpeckr](https://www.woodpeckr.io/services/managed-drupal-hosting/)
+* [SiteGround](https://www.siteground.com/web-hosting.htm)
 
 ### Tutorial Series
 
@@ -79,7 +98,10 @@ A list of demos, templates, docs, books.  Forked from [MrSinguyen](https://githu
 * [Drupal 8 Module Development Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxHi-llE9Z8-Q747NYWpsq6t)
 
 
+
 ### Books
+
+From here down, the links are from Mr Singuyen's [Awesome Drupal](https://github.com/mrsinguyen/awesome-drupal) list.
 
 * [Learning Drupal ](https://www.goodreads.com/book/show/28902292-learning-drupal-8?from_search=true&from_srp=true&qid=RRrPHHGfOb&rank=4) by Nick Abbot, Richard Jones
 * [Drupal 8 Module Development: Build and customize Drupal 8 modules and extensions efficiently](https://www.goodreads.com/book/show/36615927-drupal-8-module-development?from_search=true&from_srp=true&qid=RRrPHHGfOb&rank=5) by Daniel Sipos
