@@ -1,6 +1,6 @@
 # Welcome to Drupal
 
-A list of demos, templates, docs, books.
+A list of demos, templates, docs, books. The top half is all me, the bottom half is all [NGUYEN TIEN SI](https://github.com/MrSinguyen) in Vietnam
 
 ### Podcasts
 
